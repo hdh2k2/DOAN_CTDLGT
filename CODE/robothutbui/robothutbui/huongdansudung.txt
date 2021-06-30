@@ -1,0 +1,18 @@
+﻿
+
+
+
+
+	HELP - ROBOTIC VACUUM CLEANER                         
+                                                          
+	## Rang buoc:                                         
+    - Rang buoc phan mem:                                 
+        + He dieu hanh kha dung: Windows 10 tro len.      
+        + Chay tren console.                              
+        + ROM kha dung tren 30gb.                         
+        + Su dung IDE MinGW64                             
+                                            
+    - Rang buoc phan cung:    
+        + Cau hinh may: Toi thieu 4gb RAM, 30gb ROM kha dung.
+        + Man hinh co do tuong thich cao: 1920x1080 pixels (FULL HD)
+		+ Man hinh da test, chay on dinh: 1366x768 pixels (HD)

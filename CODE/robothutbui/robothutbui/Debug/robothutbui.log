@@ -1,0 +1,32 @@
+﻿  AmTongThe.cpp
+  BOT.cpp
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\BOT.cpp(146,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\BOT.cpp(151,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\BOT.cpp(166,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\BOT.cpp(171,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\BOT.cpp(188,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\BOT.cpp(192,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Box.cpp
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\Box.cpp(80,20): warning C4018: '<=': signed/unsigned mismatch
+  DieuKhienMenu.cpp
+  Graphics.cpp
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\Graphics.cpp(23,15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\Graphics.cpp(23,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\Graphics.cpp(135,2): warning C4273: 'SetConsoleTitleW': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi2.h(510,1): message : see previous definition of 'SetConsoleTitleW'
+  HoTro.cpp
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\HoTro.cpp(36,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\HoTro.cpp(43,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\HoTro.cpp(82,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\HoTro.cpp(84,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\HoTro.cpp(104,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\HoTro.cpp(106,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Menu.cpp
+  robothutbui.cpp
+  Room.cpp
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\Room.cpp(69,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\robothutbui\Room.cpp(437,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Run.cpp
+  ThongTinChung.cpp
+  Generating Code...
+  robothutbui.vcxproj -> D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GITHUB\robothutbui\Debug\robothutbui.exe

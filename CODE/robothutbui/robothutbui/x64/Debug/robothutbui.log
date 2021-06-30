@@ -1,0 +1,20 @@
+﻿  BOT.cpp
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(107,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(108,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(109,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(110,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(111,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(112,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(215,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(220,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(235,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(240,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(257,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(261,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(320,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(321,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(328,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(329,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(582,6): warning C4101: 'old_x': unreferenced local variable
+D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\robothutbui\BOT.cpp(583,6): warning C4101: 'old_y': unreferenced local variable
+  robothutbui.vcxproj -> D:\STUDY\IN SCHOOL\Semester2\Data Structures and Algorithms\DETAI\GROUP\CODE\robothutbui\x64\Debug\robothutbui.exe

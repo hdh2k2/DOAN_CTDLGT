@@ -1,0 +1,29 @@
+
+
+
+				
+				
+Trong khuon kho mon " Cau truc du lieu va Giai thuat ", voi su giang day tan tinh 
+cua thay, chung em da thanh cong trong viec tao ra mot chuong trinh ROBOTIC VACUUM CLEANER
+nho nho.
+
+Chuong trinh duoc viet hoan toan boi ngon ngu C++ va chay tren moi truong console, voi 
+nhung menu lua chon ro rang, giup nguoi dung co the de dang thuc hien thao tac.
+				
+Chuong trinh ROBOTIC VACUUM CLEANER duoc lay y tuong tu cac Maze, la mot chuong trinh hay noi dung hon 
+la mot " can " phan mem giup nguoi dung co ban co 1 so khai niem ve AI cung nhu cach thuc hoat dong cua
+Robot trong thoi dai cong nghe 4.0 hien nay.
+
+Trong chuong trinh, chung em da dac ta bo nao cua Robot - gom 4 che do di chuyen: Normal, Medium, Hard, User
+	
+	Che do normal: Robot se tranh cac va cham va se tu dong di chuyen theo y thich.
+	
+	Che do medium: Robot se duoc khoi dong thong minh hon, biet chon loc nhung noi da di qua de giam 
+	thieu thoi gian cung nhu nguon dien cap phat.
+	
+	Che do hard: Robot duoc trang bi 1 con AI co ban, nham giup toi uu viec di chuyen cung nhu tranh lap lai
+	cac buoc di. Tuy nhien, do kien thuc han hep nen chung em chua hoan toan toi uu cho che do " hard "
+	
+	Che do USER: O che do nay, nguoi dung se tu do dieu khien nhung robot cung duoc trang bi 1 con AI quan ly
+	cach di chuyen cua nguoi dung, hong tranh viec nguoi dung lo may di chuyen khien robot va vao
+	tuong, robot se tu dieu huong.

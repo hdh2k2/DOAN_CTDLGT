@@ -1,0 +1,29 @@
+﻿###########################################################################################################   
+#                                                                                                         #
+#   ROBOT HÚT BỤI:                                                                                        #
+#                                                                                                         #
+#   Hãy thiết kế robot hút bụi với các tính năng sau:                                                     # 
+# 	   - Tên thương hiệu                                                                                  #
+#      - Mã số sản phẩm                                                                                   #
+#      -  Hướng di chuyển (hiện hành): Bắc, Nam, Đông, Tây                                                # 
+#      - Tiến lên n bước                                                                                  #
+#      - Lùi lại n bước                                                                                   #
+#      - Xoay trái 90 độ                                                                                  #
+#      - Xoay phải 90 độ                                                                                  #
+#      - Xoay 180 độ                                                                                      #
+#      - Tự động di chuyển về phía trước, nếu có chướng ngại vật thì rẽ sang bên phải,                    # 
+#        nếu bên phải có chướng ngại vật thì rẽ sang bên trái, nếu cả hai phía phải và trái               #  
+#        đều có chướng ngại vật thì lùi lại một bước và tìm hướng có thể di chuyển theo nguyên tắc trên.  # 
+#        Không ràng buộc lộ trình di chuyển của robot hút bụi.                                            #
+#                                                                                                         #
+#      - Hút bụi trên lộ trình di chuyển.                                                                 #
+#                                                                                                         #
+#     ## Robot hút bụi có chế độ tự kiểm tra nguồn điện còn bao nhiêu %.                                  #
+#                                                                                                         #
+#     ## Robot sẽ di chuyển cho đến khi gần hết nguồn điện thì phát tín hiệu thông báo                    #  
+#        (khi nguồn điện còn 15%, 10%, 5%).                                                               #
+#                                                                                                         #
+#     ## Sau mỗi bước, in ra sơ đồ phòng và vị trí hiện hành của robot                                    #
+#        (không bắt buộc thiết kế giao diên đồ họa).  ↑ : Robot (hướng Bắc)                               # 
+#                                                                                                         #
+###########################################################################################################  

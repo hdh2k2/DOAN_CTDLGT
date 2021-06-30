@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Help">
+      <UniqueIdentifier>{192dccf4-b07c-4e48-999d-900645daff45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{c1a8e78d-b7d2-41ce-ad1b-870d2623b991}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage">
+      <UniqueIdentifier>{03dc9b97-7b54-490b-8a48-92dfbbfa26ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ThongTinPhanMem">
+      <UniqueIdentifier>{de46909e-9c77-49fe-bcd3-8d3ae019f07a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AmThanh">
+      <UniqueIdentifier>{3647ed24-8701-45b0-9878-b287022a4316}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AmThanh\FileAmThanh">
+      <UniqueIdentifier>{77016b35-b8f1-4a2e-b549-2d6916c08176}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Txt file">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="AmThanh\loinoidau">
+      <UniqueIdentifier>{f032fc77-dea9-422a-8c60-ea1fb319b086}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="robothutbui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HoTro.cpp">
+      <Filter>Help</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Box.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="DieuKhienMenu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="BOT.cpp">
+      <Filter>Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Room.cpp">
+      <Filter>Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Run.cpp">
+      <Filter>Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="ThongTinChung.cpp">
+      <Filter>ThongTinPhanMem</Filter>
+    </ClCompile>
+    <ClCompile Include="AmTongThe.cpp">
+      <Filter>AmThanh</Filter>
+    </ClCompile>
+    <ClCompile Include="TaoChuChay.cpp">
+      <Filter>AmThanh\loinoidau</Filter>
+    </ClCompile>
+    <ClCompile Include="ChuTheoTiengNoi.cpp">
+      <Filter>AmThanh\loinoidau</Filter>
+    </ClCompile>
+    <ClCompile Include="_Branch_Begin.cpp">
+      <Filter>AmThanh\loinoidau</Filter>
+    </ClCompile>
+    <ClCompile Include="amthanhnen.cpp">
+      <Filter>AmThanh</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HoTro.h">
+      <Filter>Help</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Box.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="DieuKhienMenu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="BOT.h">
+      <Filter>Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Run.h">
+      <Filter>Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="ThongTinChung.h">
+      <Filter>ThongTinPhanMem</Filter>
+    </ClInclude>
+    <ClInclude Include="AmTongThe.h">
+      <Filter>AmThanh</Filter>
+    </ClInclude>
+    <ClInclude Include="TaoChuChay.h">
+      <Filter>AmThanh\loinoidau</Filter>
+    </ClInclude>
+    <ClInclude Include="ChuTheoTiengNoi.h">
+      <Filter>AmThanh\loinoidau</Filter>
+    </ClInclude>
+    <ClInclude Include="_Branch_Begin.h">
+      <Filter>AmThanh\loinoidau</Filter>
+    </ClInclude>
+    <ClInclude Include="amthanhnen.h">
+      <Filter>AmThanh</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="duLieuMenu.txt">
+      <Filter>Txt file</Filter>
+    </Text>
+    <Text Include="debai.txt">
+      <Filter>Txt file</Filter>
+    </Text>
+    <Text Include="huongdansudung.txt">
+      <Filter>Txt file</Filter>
+    </Text>
+    <Text Include="gioithieuChung.txt">
+      <Filter>Txt file</Filter>
+    </Text>
+    <Text Include="room_11x20.txt">
+      <Filter>Txt file</Filter>
+    </Text>
+    <Text Include="dulieubot.txt">
+      <Filter>Txt file</Filter>
+    </Text>
+    <Text Include="thongtinthem.txt">
+      <Filter>Txt file</Filter>
+    </Text>
+    <Text Include="FRAME.txt">
+      <Filter>Txt file</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="canhbao.wav">
+      <Filter>AmThanh\FileAmThanh</Filter>
+    </Media>
+    <Media Include="click.wav">
+      <Filter>AmThanh\FileAmThanh</Filter>
+    </Media>
+    <Media Include="eat.wav">
+      <Filter>AmThanh\FileAmThanh</Filter>
+    </Media>
+    <Media Include="Battery_low.wav">
+      <Filter>AmThanh\FileAmThanh</Filter>
+    </Media>
+    <Media Include="Gophim.wav">
+      <Filter>AmThanh\FileAmThanh</Filter>
+    </Media>
+    <Media Include="Dead_battery.wav">
+      <Filter>AmThanh\FileAmThanh</Filter>
+    </Media>
+    <Media Include="loinoidau.wav">
+      <Filter>AmThanh\FileAmThanh</Filter>
+    </Media>
+    <Media Include="always_with_me_spirited_away_piano.wav">
+      <Filter>AmThanh\FileAmThanh</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
