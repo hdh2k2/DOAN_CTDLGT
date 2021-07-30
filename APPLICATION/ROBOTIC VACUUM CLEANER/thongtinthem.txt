@@ -6,12 +6,12 @@
                
        Po Director    Hoang Dinh Hieu   
  Robot UI Producer    Hoang Dinh Hieu   
-   Tools Producers    Vo Thanh Tin     
-                      Nguyen Huu Minh Sang
-   Audio Producers    Kieu Ba Duong
-Graphics Producers    Do Minh Tho
-                      Le Thanh Dat
-     Map Producers    Vu Tuan Kiet
+   Tools Producers    Hoang Dinh Hieu   
+                      Hoang Dinh Hieu   
+   Audio Producers    Hoang Dinh Hieu   
+Graphics Producers    Hoang Dinh Hieu   
+                      Hoang Dinh Hieu   
+     Map Producers    Hoang Dinh Hieu   
                       Hoang Dinh Hieu
-    Build Producer    Nguyen Huu Minh Sang
-                      La Hoai Nam
+    Build Producer    Hoang Dinh Hieu   
+                      Hoang Dinh Hieu   
