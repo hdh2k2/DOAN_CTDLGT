@@ -1,3 +1,3 @@
 # DOAN_CTDLGT
 
-a simple project
+A simple project made by me.
